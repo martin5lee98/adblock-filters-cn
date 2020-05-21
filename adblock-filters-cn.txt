@@ -8,6 +8,9 @@ new.qq.com##.qq_navWrap
 new.qq.com##.recommend-con
 new.qq.com###Comment
 new.qq.com###RIGHT
+new.qq.com###mercury
+new.qq.com##.videoPlayerMini
+new.qq.com##.nav-more.nav-item
 
 ! news.caijingmobile.com
 news.caijingmobile.com###app_down
@@ -37,8 +40,9 @@ tieba.baidu.com###aside
 tieba.baidu.com##.head_main
 
 ! 2020/5/12 baidu.com
-www.baidu.com###s_main
-www.baidu.com###content_right
+baidu.com###s_main
+baidu.com###content_right
+baidu.com###s_wrap
 
 ! 2020/5/13 tw.iqiyi.com
 tw.iqiyi.com##.tw-paper-entry
@@ -54,3 +58,69 @@ weibo.com###v6_pl_rightmod_recominfo > .W_fixed_top
 weibo.com###v6_pl_rightmod_attfeed > .W_fixed_top
 weibo.com###base_scrollToTop
 weibo.com##.PCD_feed
+
+! jd.com
+jd.com##.jdm-tbar-tab-qrcode.jdm-toolbar-tab.J-trigger
+jd.com###pop-hot
+jd.com###shopRecSuit
+jd.com##.pro-detail-hd-fixed-div
+jd.com##.pro-detail-hd-fixed.large.tab-main
+jd.com##.J-tab.jdm-toolbar-tabs
+jd.com##.J-toolbar.jdm-toolbar
+jd.com###J_promotional-top
+jd.com##.jdm-toolbar-header
+jd.com##.activity-fixed-bar--active.activity-fixed-bar
+jd.com##.elevator_fix.elevator
+jd.com##.J-wrap.jdm-toolbar-wrap
+jd.com###search.search-fix
+jd.com##.elevator
+jd.com###shortcut
+jd.com##.feed-tab-wrapper--fixed.feed-tab-wrapper.grid_c1
+jd.com###J_feeds
+jd.com###J_niceGoods
+jd.com###JD_activity-main
+jd.com###J_seckill
+jd.com##.fs_col2
+jd.com###J_spec
+jd.com###J_newsjd.com##.plus-UNTRY.m-user.m
+jd.com##.m-plus.m-block.m
+jd.com##.box-2
+jd.com###shortcut-2014
+jd.com###J_promo_lk
+jd.com###J_fs_act_lk
+jd.com##.user_profit
+jd.com###J_searchbg
+jd.com###hotwords
+jd.com###J_promo_lk
+jd.com###J_fs_act_lk
+jd.com##.user_profit
+jd.com###J_searchbg
+jd.com###hotwords
+
+! ximalaya.com
+www.ximalaya.com##._bk.dl-pc
+www.ximalaya.com##.vu_.qr-card
+www.ximalaya.com##.lI_.footer-nav
+www.ximalaya.com##.LJ_.undefined
+
+! pan.baidu.com
+pan.baidu.com##.level-0.OMDFeH
+pan.baidu.com##.desc-box
+
+! bing.com
+bing.com##li.b_ans:nth-of-type(14)
+
+! jdpay.com
+success.jdpay.com##.clearfix.porm-result-area > .banner-slider-area
+success.jdpay.com###newGift
+success.jdpay.com##.promotion
+success.jdpay.com##.result-promotion-area
+
+! sohu.com
+sohu.com###fixed-view > .right-fixed
+sohu.com###hot-news
+sohu.com###recommend-writer
+
+! 2020/2/27 amazon.cn
+amazon.cn###nav-belt > .nav-right
+amazon.cn###pageContent > div:nth-of-type(1)
