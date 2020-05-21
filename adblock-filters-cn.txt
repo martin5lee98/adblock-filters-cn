@@ -1,6 +1,16 @@
 ! caixin.com
 caixin.com##.fenghui_code
 caixin.com##.f_ri > ul
+caixin.com##.quickmenu
+caixin.com##.rssBox
+caixin.com##.weixinmedia
+caixin.com##.fenxiangRig
+caixin.com###comment
+caixin.com##div.multimedia:nth-of-type(16)
+caixin.com##div.multimedia:nth-of-type(15)
+caixin.com##.funcri01
+caixin.com##.listWithPic
+caixin.com##div.columnBox:nth-of-type(11)
 
 ! new.qq.com
 new.qq.com##.hot-bar
@@ -11,6 +21,10 @@ new.qq.com###RIGHT
 new.qq.com###mercury
 new.qq.com##.videoPlayerMini
 new.qq.com##.nav-more.nav-item
+new.qq.com##.fixed-bar
+
+! qq.com
+qq.com###elevator
 
 ! news.caijingmobile.com
 news.caijingmobile.com###app_down
@@ -26,7 +40,7 @@ jiemian.com##.jm-app
 ! dangdang.com
 dangdang.com###mina_img_wei
 
-! 2020/5/10 tieba.baidu.com
+! tieba.baidu.com
 tieba.baidu.com##.clearfix.main-sec
 tieba.baidu.com###spage-tbshare-container
 tieba.baidu.com##.suggestion_list
@@ -39,63 +53,41 @@ tieba.baidu.com##.right_bright.right_section
 tieba.baidu.com###aside
 tieba.baidu.com##.head_main
 
-! 2020/5/12 baidu.com
+! pan.baidu.com
+pan.baidu.com##.level-0.OMDFeH
+pan.baidu.com##.desc-box
+
+! baidu.com
 baidu.com###s_main
 baidu.com###content_right
 baidu.com###s_wrap
 
-! 2020/5/13 tw.iqiyi.com
+! iqiyi.com
 tw.iqiyi.com##.tw-paper-entry
 
-! 2020/5/20 weibo.com
+! weibo.com
 weibo.com##.pause_state.mini_btn_area
 weibo.com###v6_pl_rightmod_rank
 weibo.com###v6_trustPagelet_recom_member
 weibo.com###WB_webchat
 weibo.com##.mini_panel_area
 weibo.com##.UI_top_hidden.templete_enter
-weibo.com###v6_pl_rightmod_recominfo > .W_fixed_top
-weibo.com###v6_pl_rightmod_attfeed > .W_fixed_top
+weibo.com###.W_fixed_top
 weibo.com###base_scrollToTop
 weibo.com##.PCD_feed
 
 ! jd.com
-jd.com##.jdm-tbar-tab-qrcode.jdm-toolbar-tab.J-trigger
-jd.com###pop-hot
-jd.com###shopRecSuit
-jd.com##.pro-detail-hd-fixed-div
-jd.com##.pro-detail-hd-fixed.large.tab-main
-jd.com##.J-tab.jdm-toolbar-tabs
-jd.com##.J-toolbar.jdm-toolbar
 jd.com###J_promotional-top
+jd.com###J_mobile
 jd.com##.jdm-toolbar-header
-jd.com##.activity-fixed-bar--active.activity-fixed-bar
-jd.com##.elevator_fix.elevator
+jd.com##.elevator_list
+jd.com##.J-tab.jdm-toolbar-tabs
+jd.com##.jdm-toolbar-footer
 jd.com##.J-wrap.jdm-toolbar-wrap
-jd.com###search.search-fix
-jd.com##.elevator
-jd.com###shortcut
+jd.com###ttbar-apps
+jd.com###ttbar-navs
+jd.com##.elevator_fix.elevator
 jd.com##.feed-tab-wrapper--fixed.feed-tab-wrapper.grid_c1
-jd.com###J_feeds
-jd.com###J_niceGoods
-jd.com###JD_activity-main
-jd.com###J_seckill
-jd.com##.fs_col2
-jd.com###J_spec
-jd.com###J_newsjd.com##.plus-UNTRY.m-user.m
-jd.com##.m-plus.m-block.m
-jd.com##.box-2
-jd.com###shortcut-2014
-jd.com###J_promo_lk
-jd.com###J_fs_act_lk
-jd.com##.user_profit
-jd.com###J_searchbg
-jd.com###hotwords
-jd.com###J_promo_lk
-jd.com###J_fs_act_lk
-jd.com##.user_profit
-jd.com###J_searchbg
-jd.com###hotwords
 
 ! ximalaya.com
 www.ximalaya.com##._bk.dl-pc
@@ -117,10 +109,49 @@ success.jdpay.com##.promotion
 success.jdpay.com##.result-promotion-area
 
 ! sohu.com
-sohu.com###fixed-view > .right-fixed
+sohu.com###.right-fixed
 sohu.com###hot-news
 sohu.com###recommend-writer
+sohu.com##.fixed_menu
+sohu.com##.original-tag
+sohu.com##.lazy.cover-pic
+sohu.com##.author-info_head_medal
+sohu.com##.tab-list
+sohu.com###main-activity
+sohu.com###float-btn
+sohu.com##.left.column
+sohu.com###main-header
+sohu.com###comment_area
+sohu.com##.groom-read
+sohu.com###right-side-bar
+sohu.com##.original-logo
+sohu.com###backsohucom
 
-! 2020/2/27 amazon.cn
-amazon.cn###nav-belt > .nav-right
-amazon.cn###pageContent > div:nth-of-type(1)
+! amazon.cn
+www.amazon.cn###hero-quick-promo
+www.amazon.cn###adv-float-div
+www.amazon.cn###ctads
+www.amazon.cn###adv-float-div
+www.amazon.cn###nav-swmslot
+
+! ifeng.com
+feng.ifeng.com##.pao_mid-1dJdOICH
+news.ifeng.com##.rightContent-3YRklhu9
+news.ifeng.com##.share_box-1oLcdMMp
+news.ifeng.com##.comment_box-1xBARdZg
+news.ifeng.com##.bottom_affix-zzozAKJ_
+news.ifeng.com##.comment_box-1dciHGm9
+news.ifeng.com##.leftContent-1ESnktbA > div:nth-of-type(3)
+news.ifeng.com##div.box-1F3p1j_9:nth-of-type(7)
+news.ifeng.com##div.box-1F3p1j_9:nth-of-type(10)
+news.ifeng.com##.share_box-16zaml0D
+news.ifeng.com##.vote-ciHozqAA
+news.ifeng.com##.space30-3cvu1x-1
+news.ifeng.com##.space40-3QvhBShc
+news.ifeng.com##.space25-2OWY6OSc
+news.ifeng.com###main_nav
+news.ifeng.com##.toTop_affix-1B1BD-8k
+news.ifeng.com##.share_box-1Vn797FE
+news.ifeng.com##.recommend-3QtfcpF3
+news.ifeng.com##.header-7orRTrAO
+news.ifeng.com##.news-stream-newsStream-image-link
