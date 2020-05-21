@@ -44,4 +44,13 @@ www.baidu.com###content_right
 tw.iqiyi.com##.tw-paper-entry
 
 ! 2020/5/20 weibo.com
+weibo.com##.pause_state.mini_btn_area
+weibo.com###v6_pl_rightmod_rank
+weibo.com###v6_trustPagelet_recom_member
+weibo.com###WB_webchat
+weibo.com##.mini_panel_area
+weibo.com##.UI_top_hidden.templete_enter
+weibo.com###v6_pl_rightmod_recominfo > .W_fixed_top
+weibo.com###v6_pl_rightmod_attfeed > .W_fixed_top
+weibo.com###base_scrollToTop
 weibo.com##.PCD_feed
