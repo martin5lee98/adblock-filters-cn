@@ -1,0 +1,47 @@
+! caixin.com
+caixin.com##.fenghui_code
+caixin.com##.f_ri > ul
+
+! new.qq.com
+new.qq.com##.hot-bar
+new.qq.com##.qq_navWrap
+new.qq.com##.recommend-con
+new.qq.com###Comment
+new.qq.com###RIGHT
+
+! news.caijingmobile.com
+news.caijingmobile.com###app_down
+
+! bjnews.com.cn
+bjnews.com.cn##.layer_box
+bjnews.com.cn###follow
+bjnews.com.cn##.r
+
+! jiemian.com
+jiemian.com##.jm-app
+
+! dangdang.com
+dangdang.com###mina_img_wei
+
+! 2020/5/10 tieba.baidu.com
+tieba.baidu.com##.clearfix.main-sec
+tieba.baidu.com###spage-tbshare-container
+tieba.baidu.com##.suggestion_list
+tieba.baidu.com##.u_member
+tieba.baidu.com##.u_bdhome
+tieba.baidu.com##.card_top_theme2.clearfix.card_top_wrap
+tieba.baidu.com###tb_nav
+tieba.baidu.com##.tbui_aside_float_bar
+tieba.baidu.com##.right_bright.right_section
+tieba.baidu.com###aside
+tieba.baidu.com##.head_main
+
+! 2020/5/12 baidu.com
+www.baidu.com###s_main
+www.baidu.com###content_right
+
+! 2020/5/13 tw.iqiyi.com
+tw.iqiyi.com##.tw-paper-entry
+
+! 2020/5/20 weibo.com
+weibo.com##.PCD_feed
