@@ -228,11 +228,13 @@ ifeng.com##.recommend-3QtfcpF3
 ifeng.com##.header-7orRTrAO
 ifeng.com##.news-stream-newsStream-image-link
 ifeng.com##.left_img-1YHT5N7K
+ifeng.com##.right
+ifeng.com##.focus
 
 ! ershicimi.com
-www.ershicimi.com##.aside
-www.ershicimi.com##.article-content > strong
-www.ershicimi.com##.header
+ershicimi.com##.aside
+ershicimi.com##.article-content > strong
+ershicimi.com##.header
 
 ! chuansongme.com
 chuansongme.com##.bdshare-button-style2-24.bdsharebuttonbox
