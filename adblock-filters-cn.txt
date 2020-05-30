@@ -41,6 +41,10 @@ qq.com###relate-recomm
 qq.com###hot-videos
 qq.com###hot-share-news
 qq.com##.pc-ex-content-wrapper
+qq.com##.footer_info
+qq.com##.mod_share
+qq.com##.play_view
+qq.com##.mod_comment__show
 
 ! 163.com
 163.com##.post_header
@@ -229,3 +233,9 @@ ifeng.com##.left_img-1YHT5N7K
 www.ershicimi.com##.aside
 www.ershicimi.com##.article-content > strong
 www.ershicimi.com##.header
+
+! chuansongme.com
+chuansongme.com##.bdshare-button-style2-24.bdsharebuttonbox
+chuansongme.com###layout_header
+chuansongme.com##.related_topics.section.row
+chuansongme.com##.wrapper.footer
