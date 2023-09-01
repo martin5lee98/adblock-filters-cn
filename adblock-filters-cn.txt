@@ -1,243 +1,111 @@
-! caixin.com
-caixin.com##.fenghui_code
-caixin.com##.f_ri > ul
-caixin.com##.quickmenu
-caixin.com##.rssBox
-caixin.com##.weixinmedia
-caixin.com##.fenxiangRig
-caixin.com###comment
-caixin.com##div.multimedia:nth-of-type(16)
-caixin.com##div.multimedia:nth-of-type(15)
-caixin.com##.funcri01
-caixin.com##.listWithPic
-caixin.com##div.columnBox:nth-of-type(11)
+# ifeng
+||statistics.appstore.ifeng.com
+||dl.app.ifengcdn.com
+||nine.ifeng.com
+#||ifengimg.com^*.js
+ifeng.com##.index_link_wek7z
+survey.news.ifeng.com
+||ifengimg.com/feprod/*.js
+||ifengimg.com/fe/content/articleH5/*.js
+#@@||ifengimg.com/fe/content/articleH5/dll.b661cdce1c.js$script
+#@@||ifengimg.com/fe/content/articleH5/mobile_shareNews.83850b929b.js$script
+||shankapi.ifeng.com/*/content/*
+||shankapi.ifeng.com/c/api/content/*
+ishare.ifeng.com##.index_callupBtn_7BQho
+||api.iclient.ifeng.com/wakeupiOS/*
+||shankapi.ifeng.com/c/api/content/shareNews/getHotRankList/*
 
-! sina.com.cn
-sina.com.cn###bottom_sina_comment
-sina.com.cn###top_bar
-sina.com.cn##.page-right-bar
-sina.com.cn##.clearfix.blk-wxfollow
-sina.com.cn###tab_related_btn
-sina.com.cn###tab_related
-sina.com.cn###sina-header
-sina.com.cn###ent_search
-sina.com.cn##.article-content-right
-sina.com.cn###top_bar_wrap
-sina.com.cn##.left-content
+# jd
+||api.m.jd.com/api?$important
+||api.m.jd.com/mcoss/datash/get*$script
+#||h5speed.m.jd.com
+#||wq.jd.com$script
+||wq.360buyimg.com$script
+||uranus.jd.com
+||apk.360buyimg.com
+market://details?id=com.jingdong.app.mall
+||wqs.jd.com/downloadApp/download.html?*$document
+#||wqs.jd.com/downloadApp/download.html?channel=jd-msxotherbn
 
-! qq.com
-qq.com##.hot-bar
-qq.com##.qq_navWrap
-qq.com##.recommend-con
-qq.com###Comment
-qq.com###RIGHT
-qq.com###mercury
-qq.com##.videoPlayerMini
-qq.com##.nav-more.nav-item
-qq.com##.fixed-bar
-qq.com###elevator
-qq.com##.picture
-qq.com###relate-recomm
-qq.com###hot-videos
-qq.com###hot-share-news
-qq.com##.pc-ex-content-wrapper
-qq.com##.footer_info
-qq.com##.mod_share
-qq.com##.play_view
-qq.com##.mod_comment__show
+# thepaper
+#||m.thepaper.cn$script
+#||thepaper.cn/*/_app-*.js
+#||t4m.cn/applink.js
+||thepaper.cn/*/bottomBanner
+#||thepaper.cn/download?*$document
+||thepaper.cn/*.apk$document
+||thepaper.cn/*.apk
+$||t4m.cn
+www.thepaper.cn##.index_wrapper__jYtRh
+www.thepaper.cn##.index_commonsider__3D368
+www.thepaper.cn##.index_commentWrap__N_wpL
+www.thepaper.cn##.ant-affix
+www.thepaper.cn##.index_light__hRATr
 
-! 163.com
-163.com##.post_header
-163.com###js_N_NTES_wrap
-163.com##.post_topshare_wrap
-163.com###epContentRight
-163.com##.newsapp-qrcode
-163.com##.ns-side-totop
-163.com###post_recommend
-163.com###post_comment_area
-163.com##.post_btmshare
-163.com##.mod_netes_origina
-163.com##.none.ns_sidebar
-163.com##.mod_right_focus
-163.com##.mod_pageh5.mt35
-163.com##.fixed_top.newsdata_nav
+# sina
+||sinaimg.cn$script
 
-! news.caijingmobile.com
-news.caijingmobile.com###app_down
+#douban
+||at3.doubanio.com
+||doubanio.com/*/douban-ad-helper.js
+#||doubanio.com/*/*.js
+||douban.com/doubanapp/app?*$document
+||andariel.douban.com
+||doubanio.com/*?company_token=*
+||douban.com/to_app?*$document
 
-! bjnews.com.cn
-bjnews.com.cn##.layer_box
-bjnews.com.cn###follow
-bjnews.com.cn##.r
+#sina
+||gk.sina.cn/v1/$document
+||so.sina.cn
+||downapp.sina.cn
+||pluto.sina.cn/gk/
+||pluto.sina.cn
+||feeds.sina.cn
+||cmnt.sina.cn/aj/v2/
+||interface.sina.cn/wap_api/search_hotwords_data.d.json^$document
+||mfejs.sina.cn/*Json.js
 
-! jiemian.com
-jiemian.com##.jm-app
+#taobao
+||g.alicdn.com/*jstracker*.js
+||h5api.m.taobao.com/h5/mtop.taobao.afc.ddl.report/$document
+||market.m.taobao.com/app/starlink/wakeup-transit/$document
 
-! dangdang.com
-dangdang.com###mina_img_wei
+||hdslb.com/mobile/latest/$document
 
-! baidu.com
-baidu.com##.clearfix.main-sec
-baidu.com###spage-tbshare-container
-baidu.com##.suggestion_list
-baidu.com##.u_member
-baidu.com##.u_bdhome
-baidu.com##.card_top_theme2.clearfix.card_top_wrap
-baidu.com###tb_nav
-baidu.com##.tbui_aside_float_bar
-baidu.com##.right_bright.right_section
-baidu.com###aside
-baidu.com##.head_main
-baidu.com##.level-0.OMDFeH
-baidu.com##.desc-box
-baidu.com###s_main
-baidu.com###content_right
-baidu.com###s_wrap
+! 2023-08-26 https://m.bilibili.com
+m.bilibili.com##.home-float-openapp.launch-app-btn
+m.bilibili.com##.m-nav-openapp.launch-app-btn
+m.bilibili.com##.m-float-openapp.launch-app-btn
+m.bilibili.com##.m-video2-awaken-btn-v2
+m.bilibili.com##.visible-open-app-btn > .m-video-main-launchapp.launch-app-btn > .m-video2-awaken-btn
 
-! iqiyi.com
-tw.iqiyi.com##.tw-paper-entry
+#||hdslb.com/bfs/cm/cm-sdk/static/js/$script
+||hdslb.com/bfs/static/player/main/html5/widgets/$script
+#||hdslb.com/bfs/static/jinkela/long/js/sentry/$script
+#||hdslb.com/bfs/seed/jinkela/short/$script
+#||hdslb.com/bfs/static/jinkela/mstation-video-h5/2*$script
+#||hdslb.com/bfs/static/jinkela/mstation-video-h5/0*$script
+#||hdslb.com/bfs/static/jinkela/mstation-video-h5/mstation-video*$script
 
-! weibo.com
-weibo.com##.pause_state.mini_btn_area
-weibo.com###v6_pl_rightmod_rank
-weibo.com###v6_trustPagelet_recom_member
-weibo.com###WB_webchat
-weibo.com##.mini_panel_area
-weibo.com##.UI_top_hidden.templete_enter
-weibo.com###.W_fixed_top
-weibo.com###base_scrollToTop
-weibo.com##.PCD_feed
-weibo.com##.W_fixed_top.UI_top_hidden.icon_setskin.W_icon
+! 2023-08-26 https://space.bilibili.com
+space.bilibili.com##.login-tip
 
-! bilibili.com
-bilibili.com###live_recommand_report
-bilibili.com##.danmaku-wrap
-bilibili.com##.inside-wrp
-bilibili.com##.user-card-m
-bilibili.com###recom_module
-bilibili.com###review_module
-bilibili.com###paybar_module
-bilibili.com###toolbar_module
-bilibili.com##.bilibili-player-video-sendbar
-bilibili.com##.shadow.custom-navbar
-bilibili.com##.pic-box
-bilibili.com##.reply-face
-bilibili.com##.level-link
-bilibili.com##.plad
-bilibili.com##.follow-btn
-bilibili.com##.nameplate
-bilibili.com##.user-face
-bilibili.com##.small
-bilibili.com##.float-nav
-bilibili.com##.comment-send
-bilibili.com##.paging-box-big.bottom-page
-bilibili.com##.num
-bilibili.com##.vip-m
-bilibili.com##.i-frame
-bilibili.com##.vp-container
-bilibili.com###van-popover-2467
-bilibili.com##.van-popover__reference.mini-avatar
-bilibili.com##.pendant
-bilibili.com##.u-face
-bilibili.com##.not-follow.b-gz.follow-btn.default-btn
-bilibili.com##.bilibili-player-show.bilibili-player-video-top-follow
-bilibili.com##.bilibili-player-video-top-issue-icon
-bilibili.com##.mobile-link-l
-bilibili.com##.go-top-m
-bilibili.com###bilibili_pbp_pin
-bilibili.com##.bilibili-player-videoshot-area
-bilibili.com###bilibili_pbp_panel
+! 2023-08-26 https://www.bilibili.com
+www.bilibili.com##.bpx-player-toast-item
+www.bilibili.com##.download-client-trigger.download-entry
+www.bilibili.com##.v-popover
+www.bilibili.com##.van-popover
+www.bilibili.com##.user-card-m-exp
 
-! jd.com
-jd.com###J_promotional-top
-jd.com###J_mobile
-jd.com##.jdm-toolbar-header
-jd.com##.elevator_list
-jd.com##.J-tab.jdm-toolbar-tabs
-jd.com##.jdm-toolbar-footer
-jd.com##.J-wrap.jdm-toolbar-wrap
-jd.com###ttbar-apps
-jd.com###ttbar-navs
-jd.com##.elevator_fix.elevator
-jd.com##.feed-tab-wrapper--fixed.feed-tab-wrapper.grid_c1
+||zhihu.com/oia/feed
 
-! ximalaya.com
-ximalaya.com##._bk.dl-pc
-ximalaya.com##.vu_.qr-card
-ximalaya.com##.lI_.footer-nav
-ximalaya.com##.LJ_.undefined
-
-! pan.baidu.com
-pan.baidu.com##.level-0.OMDFeH
-pan.baidu.com##.desc-box
-
-! bing.com
-bing.com##li.b_ans:nth-of-type(14)
-
-! jdpay.com
-success.jdpay.com##.clearfix.porm-result-area > .banner-slider-area
-success.jdpay.com###newGift
-success.jdpay.com##.promotion
-success.jdpay.com##.result-promotion-area
-
-! sohu.com
-sohu.com###.right-fixed
-sohu.com###hot-news
-sohu.com###recommend-writer
-sohu.com##.fixed_menu
-sohu.com##.original-tag
-sohu.com##.lazy.cover-pic
-sohu.com##.author-info_head_medal
-sohu.com##.tab-list
-sohu.com###main-activity
-sohu.com###float-btn
-sohu.com##.left.column
-sohu.com###main-header
-sohu.com###comment_area
-sohu.com##.groom-read
-sohu.com###right-side-bar
-sohu.com##.original-logo
-sohu.com###backsohucom
-
-! amazon.cn
-amazon.cn###hero-quick-promo
-amazon.cn###adv-float-div
-amazon.cn###ctads
-amazon.cn###adv-float-div
-amazon.cn###nav-swmslot
-
-! ifeng.com
-ifeng.com##.pao_mid-1dJdOICH
-ifeng.com##.rightContent-3YRklhu9
-ifeng.com##.share_box-1oLcdMMp
-ifeng.com##.comment_box-1xBARdZg
-ifeng.com##.bottom_affix-zzozAKJ_
-ifeng.com##.comment_box-1dciHGm9
-ifeng.com##.leftContent-1ESnktbA > div:nth-of-type(3)
-ifeng.com##div.box-1F3p1j_9:nth-of-type(7)
-ifeng.com##div.box-1F3p1j_9:nth-of-type(10)
-ifeng.com##.share_box-16zaml0D
-ifeng.com##.vote-ciHozqAA
-ifeng.com##.space30-3cvu1x-1
-ifeng.com##.space40-3QvhBShc
-ifeng.com##.space25-2OWY6OSc
-ifeng.com###main_nav
-ifeng.com##.toTop_affix-1B1BD-8k
-ifeng.com##.share_box-1Vn797FE
-ifeng.com##.recommend-3QtfcpF3
-ifeng.com##.header-7orRTrAO
-ifeng.com##.news-stream-newsStream-image-link
-ifeng.com##.left_img-1YHT5N7K
-ifeng.com##.right
-ifeng.com##.focus
-
-! ershicimi.com
-ershicimi.com##.aside
-ershicimi.com##.article-content > strong
-ershicimi.com##.header
-
-! chuansongme.com
-chuansongme.com##.bdshare-button-style2-24.bdsharebuttonbox
-chuansongme.com###layout_header
-chuansongme.com##.related_topics.section.row
-chuansongme.com##.wrapper.footer
+! 2023-08-27 https://www.zhihu.com
+www.zhihu.com##.css-121zbv8.Button--blue.Button--primary.Button
+www.zhihu.com##.Button--blue.css-183aq3r.Button
+||zhihu.com/heifetz/chunks/.*js$script
+||acstatic-dun.126.net$script
+||static.zhihu.com/heifetz/chunks/GoodsRecommendGoodsCardList.*.js$important
+#www.zhihu.com##.Modal-backdrop
+#www.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
+||zhihu.com/oia/feed$document
+#||zhihu.com/heifetz/chunks/shared-*.js$important
