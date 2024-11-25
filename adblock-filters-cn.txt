@@ -14,10 +14,10 @@ survey.news.ifeng.com
 ishare.ifeng.com##.index_callupBtn_7BQho
 ||api.iclient.ifeng.com/wakeupiOS/*
 ||shankapi.ifeng.com/c/api/content/shareNews/getHotRankList/*
-||ifeng.com##div.index_box_HGdrQ:nth-of-type(7)
-||ifeng.com##div.index_box_HGdrQ:nth-of-type(10)
-||ifeng.com##.index_bottom_affix_dQzSi
-||ifeng.com##.index_rightContent_Caqe0
+news.ifeng.com##div.index_box_HGdrQ:nth-of-type(7)
+news.ifeng.com##div.index_box_HGdrQ:nth-of-type(10)
+news.ifeng.com##.index_bottom_affix_dQzSi
+news.ifeng.com##.index_rightContent_Caqe0
 
 # jd
 ||api.m.jd.com/api?$important
